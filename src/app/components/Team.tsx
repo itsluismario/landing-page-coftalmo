@@ -1,5 +1,4 @@
 export default function Team() {
-    // Define an array of team members with name, role, and place attributes
     const teamMembers = [
       {
         name: "Luis Mario",
@@ -55,7 +54,6 @@ export default function Team() {
             </p>
           </div>
           <ul role="list" className="grid gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-8 xl:col-span-2">
-            {/* Map over the teamMembers array and generate JSX for each member */}
             {teamMembers.map((member, index) => (
               <li key={index}>
                 <div className="flex items-center gap-x-6">
