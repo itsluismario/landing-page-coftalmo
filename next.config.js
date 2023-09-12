@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    images: {
+        domains: ['imgs.search.brave.com'], // Add your domain(s) here
+      },
+}
 
 module.exports = nextConfig
