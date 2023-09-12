@@ -11,6 +11,11 @@ export default function Team() {
         place: "Tec de Monterrey",
       },
       {
+        name: "Dra. Guadalupe Campos Hurtado",
+        role: "Asesor de retina y oftalmología pedíatrica",
+        place: "Centro Médico Nacional siglo XII IMSS",
+      },
+      {
         name: "Dr. Miguel Jiménez",
         role: "Asesor de retina y oftalmología pedíatrica",
         place: "Hospital General de Zona Oaxaca, Oaxaca",

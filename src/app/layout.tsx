@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Coftalmo',
-  description: 'Creando el futuro el futuro en la salud pública',
+  description: 'Nuestra misión es evitar el 80% de la ceguera en el LATAM',
 }
 
 export default function RootLayout({
