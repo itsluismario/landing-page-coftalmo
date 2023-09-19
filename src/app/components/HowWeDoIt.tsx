@@ -6,7 +6,7 @@ export default function HowWeDoIt() {
               ¿Cómo funciona... por ahora?
             </h2>
             <h3 className="text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">
-              Conectamos a los pacientes de lugares remotos sin acceso a salud pública especializada con nuestros oftalmólogos por medio de nuestro servico de la nube
+              Conectamos a los pacientes de lugares remotos sin acceso a salud pública especializada con oftalmólogos por medio de nuestro servico de la nube
             </h3>
         </div>
       </div>
