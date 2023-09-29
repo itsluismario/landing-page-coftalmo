@@ -11,19 +11,14 @@ export default function Team() {
         place: "Tec de Monterrey",
       },
       {
-        name: "Dra. Guadalupe Campos Hurtado",
-        role: "Asesor de retina y oftalmología pedíatrica",
-        place: "Centro Médico Nacional siglo XII IMSS",
+        name: "Dr. José Adrian Rojas Dosal",
+        role: "Ex-director y oftalmólogo",
+        place: "Hospital Juárez de México S.S.A",
       },
       {
         name: "Dr. Miguel Jiménez",
         role: "Asesor de retina y oftalmología pedíatrica",
         place: "Hospital General de Zona Oaxaca, Oaxaca",
-      },
-      {
-        name: "Dr. José Adrian Rojas Dosal",
-        role: "Ex-director y oftalmólogo",
-        place: "Hospital Juárez de México S.S.A",
       },
       {
         name: "Dr. Marco Antonio Ramírez Ortiz",
@@ -32,18 +27,23 @@ export default function Team() {
       },
       {
         name: "Dr. Juan Carlos Bravo Ortiz",
-        role: "Oftalmólogo",
-        place: "Centro Médico Nacional siglo XII IMSS",
+        role: "Asesor de retína y oftalmólogía pedíatrica",
+        place: "Centro Médico Nacional siglo XXI IMSS",
       },
       {
         name: "Dr. Mario Duarte Tortillero",
-        role: "Oftalmólogo",
+        role: "Ex-director del servicio de oftalmología",
         place: "Hospital Juárez De México S.S.A",
       },
       {
         name: "Dra. Rita Ríos",
-        role: "Oftalmólogo",
-        place: "Centro Médico Nacional siglo XII IMSS",
+        role: "Asesora de retína y uveítis de oftalmología",
+        place: "Centro Médico Nacional siglo XXI IMSS",
+      },
+      {
+        name: "Dra. Guadalupe Campos Hurtado",
+        role: "Asesora de oftalmología",
+        place: "Centro Médico Nacional siglo XXI IMSS",
       },
     ];
   
