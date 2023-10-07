@@ -53,7 +53,7 @@ export default function Team() {
         {
           name: "Doctor Mario Duarte Tortoriello",
           role: "Ex-director del servicio de oftalmología",
-          place: "Hospital Juárez de México S.S.A"
+          place: "Hospital Juárez de México S.S.A."
         },
         {
           name: "Doctora Guadalupe Campos Hurtado",
@@ -62,7 +62,7 @@ export default function Team() {
         },
         {
           name: "Luis Mario",
-          role: "Fundador",
+          role: "Fundador / CEO",
           place: "Tec de Monterrey / Harvard"
         },  
     ];
