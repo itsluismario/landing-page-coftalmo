@@ -1,50 +1,70 @@
 export default function Team() {
     const teamMembers = [
-      {
-        name: "Luis Mario",
-        role: "Co-Founder / CEO",
-        place: "Tec de Monterrey / Harvard",
-      },
-      {
-        name: "Fernando Herrera Garza",
-        role: "Co-Founder / COO",
-        place: "Tec de Monterrey",
-      },
-      {
-        name: "Dr. José Adrian Rojas Dosal",
-        role: "Ex-director y oftalmólogo",
-        place: "Hospital Juárez de México S.S.A",
-      },
-      {
-        name: "Dr. Miguel Jiménez",
-        role: "Asesor de retina y oftalmología pedíatrica",
-        place: "Hospital General de Zona Oaxaca, Oaxaca",
-      },
-      {
-        name: "Dr. Marco Antonio Ramírez Ortiz",
-        role: "Asesor de oftalmología pedíatrica",
-        place: "Hospital Infantil Federico Gómez",
-      },
-      {
-        name: "Dr. Juan Carlos Bravo Ortiz",
-        role: "Asesor de retína y oftalmólogía pedíatrica",
-        place: "Centro Médico Nacional siglo XXI IMSS",
-      },
-      {
-        name: "Dr. Mario Duarte Tortillero",
-        role: "Ex-director del servicio de oftalmología",
-        place: "Hospital Juárez De México S.S.A",
-      },
-      {
-        name: "Dra. Rita Ríos",
-        role: "Asesora de retína y uveítis de oftalmología",
-        place: "Centro Médico Nacional siglo XXI IMSS",
-      },
-      {
-        name: "Dra. Guadalupe Campos Hurtado",
-        role: "Asesora de oftalmología",
-        place: "Centro Médico Nacional siglo XXI IMSS",
-      },
+        {
+          name: "Doctora Rita Ríos",
+          role: "Asesora de retina y uveítis en oftalmología",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Miguel Jiménez",
+          role: "Asesor de retina y oftalmología pediátrica",
+          place: "Hospital General S.S.A Oaxaca"
+        },
+        {
+          name: "Doctor José Adrián Rojas Dosal",
+          role: "Ex-director y oftalmólogo",
+          place: "Hospital Juárez de México S.S.A / Academia Mexicana de Cirugía"
+        },
+        {
+          name: "Doctor Eduardo Corzo",
+          role: "Retina y visión sub-normal",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Dolores González Palomero",
+          role: "Ex-jefa del servicio de retina",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor José Luis Del Río",
+          role: "Ex-jefe del servicio de retina",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Mario Mercado",
+          role: "Trasplante de córnea",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Marco Antonio Ramírez Ortiz",
+          role: "Asesor de oftalmología pediátrica",
+          place: "Hospital Infantil Federico Gómez"
+        },
+        {
+          name: "Doctora Enriqueta Hofman Blancas",
+          role: "Asesor de oftalmología pediátrica",
+          place: "Hospital de ediatría del Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Juan Carlos Bravo Ortiz",
+          role: "Asesor de retina y oftalmología pediátrica",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Mario Duarte Tortoriello",
+          role: "Ex-director del servicio de oftalmología",
+          place: "Hospital Juárez de México S.S.A"
+        },
+        {
+          name: "Doctora Guadalupe Campos Hurtado",
+          role: "Asesora de oftalmología",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Luis Mario",
+          role: "Fundador",
+          place: "Tec de Monterrey / Harvard"
+        },  
     ];
   
     return (
