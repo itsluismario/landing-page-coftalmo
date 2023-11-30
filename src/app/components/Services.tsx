@@ -215,8 +215,8 @@ const Service = () => {
             // }
           />
           <ServiceCard
-            title="Prescbicia"
-            details="Si quieres saber más sobre qué es prescbicia."
+            title="Presbicia"
+            details="Si quieres saber más sobre qué es presbicia."
             link="https://www.aao.org/salud-ocular/enfermedades/presbicia"
             // icon={
             //   <svg
