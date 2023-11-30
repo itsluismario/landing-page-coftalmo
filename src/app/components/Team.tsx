@@ -68,14 +68,14 @@ export default function Team() {
     ];
   
     return (
-      <div className="bg-white mb-10 sm:mb-10 py-10 sm:mx-auto sm:max-w-full sm:px-10">
+      <div className="bg-white sm:mb-10 py-10 sm:mx-auto sm:max-w-full sm:px-10">
         <div className="mx-auto grid max-w-2xl gap-x-8 gap-y-10 px-6 lg:px-8 xl:grid-cols-1">
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-2xl">
               Conoce a nuestro equipo
             </h2>
             <p className="mt-2 text-lg leading-8 text-gray-600">
-              Conformados por directores de hosptiales, oftalmólogos especialistas, investigadores de alto nivel y emprendedores en tecnología.
+              Conformados por directores de hosptiales, oftalmólogos especialistas y investigadores de alto nivel que <a className="underline decoration-pink-500 text-black bold">forman parte de la Red Internacional de Oftalmólogos (RIO).</a>
             </p>
           </div>
           <ul role="list" className="grid gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-8 xl:col-span-2">
