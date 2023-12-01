@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import SeenUsInAction from "./components/SeenUsInAction";
+import GoogleMaps from "./components/GoogleMaps";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Team />
       <SeenUsInAction/>
       <Services />
+      <GoogleMaps />
       <SeenUs />
       <Footer/>
     </main>
