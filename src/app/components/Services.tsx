@@ -8,7 +8,7 @@ const Service = () => {
           <div className="w-full px-4">
             <div className="mx-auto mb-12 max-w-[510px] text-center lg:mb-20">
               <span className="mb-2 block text-black text-lg font-semibold text-primary">
-                Nustros servicios
+                Nuestros servicios
               </span>
               <h2 className="mb-3 text-3xl text-black font-bold leading-[1.2] text-dark sm:text-4xl md:text-[40px]">
                 Qué ofrecemos
