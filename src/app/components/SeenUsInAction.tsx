@@ -52,7 +52,7 @@ export default function SeenUs() {
               <div className='w-full p-1 md:p-2'>
                 <Image
                   src={software}
-                  style={{ width: '24em', height: '14.5em' }}
+                  style={{ width: 'auto', height: 'auto' }}
                   alt='talkingToUsers'
                   className='block h-full w-full rounded-lg object-cover object-center'
                 />
