@@ -6,7 +6,7 @@ export default function SeenUs() {
         <div className="mx-auto grid max-w-3xl gap-x-8 gap-y-10 px-6 lg:px-8 xl:grid-cols-1">
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold text-gray-900 sm:text-2xl text-center">
-              Donde has escuchado de nosotros
+              Dónde has escuchado de nosotros
             </h2>
           </div>
           <ul role="list" className="grid grid-cols-1 sm:grid-cols-2">
