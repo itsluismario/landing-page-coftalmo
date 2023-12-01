@@ -1,4 +1,4 @@
-import type { Config } from 'tailwindcss'
+import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: [
@@ -15,6 +15,9 @@ const config: Config = {
       },
     },
   },
+    // @ts-ignore
+  darkMode: false as false, // Set darkMode to false to disable dark mode
   plugins: [],
-}
-export default config
+};
+
+export default config;

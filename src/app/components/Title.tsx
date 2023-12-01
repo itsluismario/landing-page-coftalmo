@@ -12,11 +12,11 @@ export default function Title() {
             <Link           
                 href="https://wa.me/524431280937"
                 target="_blank"
-                className="font-bold"
+                className="font-bold dark:text-white text-white"
                 rel="noopener noreferrer"
                 >
-                <button className="rounded-md group bg-sky-400 hover:bg-sky-400/90 ps-4 pe-2 py-2 flex items-center">
-                <span>Contactarnos</span>
+                <button className="rounded-md group bg-sky-400  hover:bg-sky-400/90 ps-4 pe-2 py-2 flex items-center">
+                <span >Contactarnos</span>
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"

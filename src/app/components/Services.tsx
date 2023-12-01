@@ -2,7 +2,7 @@ import React from "react";
 
 const Service = () => {
   return (
-    <section className="pb-12 pt-10 lg:pb-[50px] lg:pt-[40px]">
+    <section className="pb-12 pt-10 lg:pb-[50px] lg:pt-[40px] sm:mx-auto sm:max-w-4xl">
       <div className="container mx-auto">
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
@@ -262,7 +262,7 @@ export default Service;
 
 const ServiceCard = ({title, details, link }: {title:any, details:any, link:any}) => {
   return (
-    <>
+
       <div className="w-full px-4 md:w-1/2 lg:w-1/3">
         <div className="mb-9 rounded-[20px] bg-white p-10 shadow-2 hover:shadow-lg md:px-7 xl:px-10">
           {/* <div className="mb-8 flex h-[70px] w-[70px] items-center justify-center rounded-2xl bg-primary">
@@ -275,6 +275,5 @@ const ServiceCard = ({title, details, link }: {title:any, details:any, link:any}
           <p className='underline'><a href={link}>Dale click aqui</a></p>
         </div>
       </div>
-    </>
   );
 };
