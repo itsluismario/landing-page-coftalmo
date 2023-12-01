@@ -15,7 +15,7 @@ export default function SeenUs() {
           <a className='underline decoration-pink-500 text-gray-900'>acción</a>
         </h2>
         <p className='text-base text-body-color text-black'>
-          Llevamos el servicio a donde no es atentido como debería ser
+          Llevamos el servicio a donde no es atendido como debería ser
         </p>
       </div>
 
