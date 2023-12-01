@@ -39,8 +39,6 @@ export default function GoogleMaps() {
               <Marker 
                 position={position} 
                 />
-
-                Pinveiw
             </Map>
           </div>
         </APIProvider>
