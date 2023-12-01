@@ -8,7 +8,7 @@ import place from './../../../public/place.png';
 
 export default function SeenUs() {
   return (
-    <div className='sm:mx-auto sm:max-w-4xl '>
+    <div className='sm:mx-auto sm:max-w-4xl mt-10'>
       <div className='mx-auto max-w-[510px] text-center '>
         <h2 className='mb-3 text-3xl text-black font-bold leading-[1.2] text-dark sm:text-4xl md:text-[40px]'>
           Venos en{' '}
