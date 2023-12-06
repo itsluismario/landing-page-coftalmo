@@ -1,6 +1,10 @@
 export default function Team() {
     const teamMembers = [
         {
+          name: "Doctor José Adrián Rojas Dosal",
+          role: "Ex-presidente de la Academia Mexicana de Cirugía, Ex-director del Hospital Juárez de México S.S.A, Ex-director de la división de oftalmogía del Centro Médico Nacional Siglo XXI I.M.S.S., Oftalmólogo pedíatra",
+        },
+        {
           name: "Doctora Rita Ríos",
           role: "Asesora de retina y uveítis en oftalmología",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
@@ -11,14 +15,9 @@ export default function Team() {
           place: "Hospital General S.S.A Oaxaca"
         },
         {
-          name: "Doctor José Adrián Rojas Dosal",
-          role: "Ex-director y oftalmólogo",
-          place: "Hospital Juárez de México S.S.A / Academia Mexicana de Cirugía"
-        },
-        {
           name: "Doctor Eduardo Corzo",
           role: "Retina y visión sub-normal",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+          place: "Egresado del Centro Médico Nacional Siglo XXI I.M.S.S."
         },
         {
           name: "Doctora Dolores González Palomero",
@@ -38,16 +37,16 @@ export default function Team() {
         {
           name: "Doctor Marco Antonio Ramírez Ortiz",
           role: "Asesor de oftalmología pediátrica",
-          place: "Hospital Infantil Federico Gómez"
+          place: "Hospital Infantil de México Federico Gómez"
         },
         {
           name: "Doctora Enriqueta Hofman Blancas",
-          role: "Asesor de oftalmología pediátrica",
-          place: "Hospital de ediatría del Centro Médico Nacional Siglo XXI I.M.S.S."
+          role: "Ex-jefa de oftalmología pediátrica",
+          place: "Hospital de pediatría del Centro Médico Nacional Siglo XXI I.M.S.S."
         },
         {
           name: "Doctor Juan Carlos Bravo Ortiz",
-          role: "Asesor de retina y oftalmología pediátrica",
+          role: "Ex-jefe oftalmología pediátrica y retina",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
         },
         {
@@ -56,9 +55,34 @@ export default function Team() {
           place: "Hospital Juárez de México S.S.A."
         },
         {
+          name: "Doctor Hector Fierro Gossman",
+          role: "Ex-jefe de retina",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora María de Lourdes Soto Hernandez",
+          role: "Ex-jefade glaucoma",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: 'Doctor Rolando Olguin Maldonado',
+          role: 'Director General de Instituto Oftalmologico Cochabamba de Bolivia',
+          place: 'Egresado del Centro Médico Nacional Siglo XXI I.M.S.S.'
+        },
+        {
+          name: 'Doctor Orlando Niebles',
+          role: 'Oftalmólogo en Colombia',
+          place: 'Egresado del Centro Médico Nacional Siglo XXI I.M.S.S.'
+        },
+        {
           name: "Doctora Guadalupe Campos Hurtado",
           role: "Asesora de oftalmología",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+          place: "Egresada del Centro Médico Nacional Siglo XXI I.M.S.S. y del Hospital Infantil de México Federico Gómez"
+        },
+        {
+          name: "Doctora Guadalupe Campos Hurtado",
+          role: "Asesora de oftalmología",
+          place: "Egresada del Centro Médico Nacional Siglo XXI I.M.S.S. y del Hospital Infantil de México Federico Gómez"
         },
         {
           name: "Luis Mario",
