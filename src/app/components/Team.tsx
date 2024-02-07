@@ -35,6 +35,11 @@ export default function Team() {
           place: "Centro Médico Nacional La Raza"
         },
         {
+          name: "Doctor Hector Matías Rojo Olvera",
+          role: "Oftalmólogo",
+          place: "Centro Médico Nacional La Raza"
+        },
+        {
           name: "Doctora Rita Ríos",
           role: "Asesora de retina y uveítis en oftalmología",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
