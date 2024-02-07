@@ -5,6 +5,36 @@ export default function Team() {
           role: "Ex-presidente de la Academia Mexicana de Cirugía, Ex-director del Hospital Juárez de México S.S.A, Ex-director de la división de oftalmogía del Centro Médico Nacional Siglo XXI I.M.S.S., Oftalmólogo pedíatra",
         },
         {
+          name: "Doctor Rafael García Alcaráz",
+          role: "Oftalmólogo",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Javier Salina Márquez",
+          role: "Oftalmólogo",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Edgar Solano Tego",
+          role: "Oftalmólogo",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Rosa Maria Nuñez",
+          role: "Oftalmóloga",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Esther Castillo Joya",
+          role: "Oftalmóloga",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Yolanda Arrieta Vera",
+          role: "Oftalmóloga",
+          place: "Centro Médico Nacional La Raza"
+        },
+        {
           name: "Doctora Rita Ríos",
           role: "Asesora de retina y uveítis en oftalmología",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
