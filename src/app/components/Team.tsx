@@ -6,38 +6,8 @@ export default function Team() {
         },
         {
           name: "Doctor Rafael García Alcaráz",
-          role: "Oftalmólogo",
+          role: "Oftalmólogo residente en Acapulco, Guerrero",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctor Javier Salina Márquez",
-          role: "Oftalmólogo",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctor Edgar Solano Tego",
-          role: "Oftalmólogo",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctora Rosa Maria Nuñez",
-          role: "Oftalmóloga",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctora Esther Castillo Joya",
-          role: "Oftalmóloga",
-          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctora Yolanda Arrieta Vera",
-          role: "Oftalmóloga",
-          place: "Centro Médico Nacional La Raza"
-        },
-        {
-          name: "Doctor Hector Matías Rojo Olvera",
-          role: "Oftalmólogo",
-          place: "Centro Médico Nacional La Raza"
         },
         {
           name: "Doctora Rita Ríos",
@@ -110,9 +80,34 @@ export default function Team() {
           place: 'Egresado del Centro Médico Nacional Siglo XXI I.M.S.S.'
         },
         {
-          name: "Doctora Guadalupe Campos Hurtado",
-          role: "Asesora de oftalmología",
-          place: "Egresada del Centro Médico Nacional Siglo XXI I.M.S.S. y del Hospital Infantil de México Federico Gómez"
+          name: "Doctor Javier Salina Márquez",
+          role: "Oftalmólogo residente en Ciudad Cuauhtémoc, Chihahua",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctor Edgar Solano Tego",
+          role: "Oftalmólogo residente en Tuxtla Gutiérrez, Chiapas",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Rosa Maria Nuñez",
+          role: "Oftalmóloga residente en Torreón, Coahuila",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Esther Castillo Joya",
+          role: "Oftalmóloga residente en Cancún, Quintana Roo",
+          place: "Centro Médico Nacional Siglo XXI I.M.S.S."
+        },
+        {
+          name: "Doctora Yolanda Arrieta Vera",
+          role: "Oftalmóloga residente en Tulancingo, Hidalgo",
+          place: "Centro Médico Nacional La Raza"
+        },
+        {
+          name: "Doctor Hector Matías Rojo Olvera",
+          role: "Oftalmólogo residente en Tulancingo, Hidalgo",
+          place: "Centro Médico Nacional La Raza"
         },
         {
           name: "Doctora Guadalupe Campos Hurtado",
