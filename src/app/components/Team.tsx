@@ -2,8 +2,8 @@ export default function Team() {
     const teamMembers = [
         {
           name: "Doctor Marco Antonio Ramírez Ortiz",
-          role: "Asesor de oftalmología pediátrica",
-          place: "Academia Mexicana de Cirujia. Jefe del Servicio de oftalmología del Hospital Infantil de México Federico Gómez. Egresado del Centro Médico Nacional Siglo XXI I.M.S.S. Egreseado del Instituto Nacional de Pediatría."
+          role: "Jefe del Servicio de oftalmología del Hospital Infantil de México Federico Gómez y asesor de oftalmología pediátrica",
+          place: "Academia Mexicana de Cirujia. Egresado del Centro Médico Nacional Siglo XXI I.M.S.S. Egreseado del Instituto Nacional de Pediatría."
         },
         {
           name: "Doctor José Adrián Rojas Dosal",
