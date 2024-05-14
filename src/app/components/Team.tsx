@@ -1,6 +1,11 @@
 export default function Team() {
     const teamMembers = [
         {
+          name: "Doctor Marco Antonio Ramírez Ortiz",
+          role: "Asesor de oftalmología pediátrica",
+          place: "Hospital Infantil de México Federico Gómez"
+        },
+        {
           name: "Doctor José Adrián Rojas Dosal",
           role: "Ex-presidente de la Academia Mexicana de Cirugía, Ex-director del Hospital Juárez de México S.S.A, Ex-director de la división de oftalmogía del Centro Médico Nacional Siglo XXI I.M.S.S., Oftalmólogo pedíatra",
         },
@@ -38,11 +43,6 @@ export default function Team() {
           name: "Doctor Mario Mercado",
           role: "Trasplante de córnea",
           place: "Centro Médico Nacional Siglo XXI I.M.S.S."
-        },
-        {
-          name: "Doctor Marco Antonio Ramírez Ortiz",
-          role: "Asesor de oftalmología pediátrica",
-          place: "Hospital Infantil de México Federico Gómez"
         },
         {
           name: "Doctora Enriqueta Hofman Blancas",
@@ -115,10 +115,20 @@ export default function Team() {
           place: "Egresada del Centro Médico Nacional Siglo XXI I.M.S.S. y del Hospital Infantil de México Federico Gómez"
         },
         {
-          name: "Luis Mario",
-          role: "Fundador / CEO",
+          name: "Guillermo Quiroga Ocaña",
+          role: "Co-fundador / CTO",
           place: "Tec de Monterrey / Harvard"
-        },  
+        },
+        {
+          name: "Stefany Elizabeth Garcia Vera",
+          role: "Co-fundador / COO",
+          place: "Tec de Monterrey / Harvard"
+        },
+        {
+          name: "Luis Mario",
+          role: "Co-fundador / CEO",
+          place: "Tec de Monterrey / Harvard"
+        }, 
     ];
   
     return (
