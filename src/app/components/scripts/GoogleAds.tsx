@@ -7,6 +7,7 @@ export default function GoogleAds() {
         <>
             {/* External Google Analytics Script */}
             <Script
+                async
                 src={`https://www.googletagmanager.com/gtag/js?id=${GADS_ID}`}
                 strategy='afterInteractive'
             ></Script>
