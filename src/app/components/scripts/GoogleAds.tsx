@@ -1,13 +1,13 @@
 import Script from 'next/script';
 
-export default function GoogleAnalytics() {
-    const GA_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
+export default function GoogleAds() {
+    const GADS_ID = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
     
     return (
         <>
             {/* External Google Analytics Script */}
             <Script
-                src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+                src={`https://www.googletagmanager.com/gtag/js?id=${GADS_ID}`}
                 strategy='afterInteractive'
             ></Script>
 
@@ -21,7 +21,7 @@ export default function GoogleAnalytics() {
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
 
-                gtag('config', '${GA_ID}');
+                gtag('config', '${GADS_ID}');
                 `}
             </Script>
         </>
