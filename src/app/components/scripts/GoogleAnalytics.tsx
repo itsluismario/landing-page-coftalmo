@@ -2,17 +2,21 @@ import Script from 'next/script';
 
 export default function GoogleAnalytics() {
     const GA_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_KEY;
-
+    console.log(GA_ID);
+    
     return (
         <>
             {/* External Google Analytics Script */}
             <Script
-                async
                 src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+                strategy='afterInteractive'
             ></Script>
 
             {/* Google Analytics Configuration */}
-            <Script id="google-analytics">
+            <Script 
+                id="google-analytics" 
+                strategy='afterInteractive'
+            >
                 {`
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
